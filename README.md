@@ -1,5 +1,6 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
+[![Build Status](https://dev.azure.com/AppInnovation-20755354/GitHub%20Integration/_apis/build/status/Student1-20755354.ContosoAir?branchName=master)](https://dev.azure.com/AppInnovation-20755354/GitHub%20Integration/_build/latest?definitionId=1&branchName=master)
 
 # Microsoft.Github CI Demo
 
